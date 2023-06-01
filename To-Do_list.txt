@@ -1,0 +1,74 @@
+-BARRA DE NAVEGACIÓN-(Working)
+    - inscripciones
+    - estudiantes
+    - docentes
+    - egresados
+    - administrativos
+    - proveedores
+        - admiciones
+        - programas
+            - pregrados
+                - facultad de arquitectura
+                - facultad de bellas artes
+                - facultad de ciencias básicas
+                - facultad de educación
+                - facultad de ciencias económicas
+                - facultad de ciencias humanas
+                - facultad de ingenierías
+                - facultad de nutrición y dietética
+                - facultad de ciencias jurídicas
+                - facultad de química y farmacia
+            - postgrados
+                - especializaciones
+                - maestrías
+                - doctorados
+            - ofertas regionales
+        - docencia
+        - extensión
+            - educación continua
+                - cursos libres de bellas artes
+                - diplomados
+                - cursos y seminarios
+                - talleres
+            - cursos libres de lenguas extranjeras
+            - ua emprende
+            - vivelab
+            - proyección social
+            - convenios
+            - museo de antropología
+            - centro cultural
+            - consultorio jurídico y centro de conciliación
+            - centro de consultoría y servicios
+        - investigación
+        - bienestar universitario
+        - internacionalización
+        - la universidad 
+            - información general
+            - editorial ua
+            - boletín institucional
+            - rectoría
+            - secretaría general
+            - vicerrectorías
+                - vicerrectoría administrativa y financiera
+                - vicerrectoría de bienestar universitario
+                - vicerrectoría de docencia
+                - vicerrectoría de investigaciones, extensión y proyección social
+            - oficinas
+                - planeación
+                - control interno
+                - asesoría jurídica
+                - control disciplinario
+                - informática
+            - departamentos
+                - gestión financiera
+                - gestión de talento humano
+                - servicios generales
+                - bienes y suministros
+
+******************************************************************************************************
+******************************************************************************************************
+-CONTENIDO DE LAS SECCIONES DE LA BARRA DE NAVEGACIÓN-(Planear al ir finalizando la parte anterior)
+
+******************************************************************************************************
+******************************************************************************************************
+--
