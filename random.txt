@@ -1,2 +1,14 @@
+*Projects inside Bib-Bop*
+    - Redesigning UA's web page
+        Literally a re-design of the Universidad Del Atlantico website.
+        objetives:
+            / Make it more intuitive
+            / Improve visuals
+            / 
+    - getknowledge.com 
+    - 
+
+
+
 *RANDOM IDEAS USING MY BROKEN ENGLISH*
     
