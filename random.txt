@@ -11,7 +11,7 @@
             / Help people to find things they might like to learn about.
             / Help people that is learning about any topic to go deeply into that knowledge by showing them what they do not know that they do not know.
             / 
-    - 
+    -----------------------------------------------------------------------------
 
 
 
@@ -36,4 +36,14 @@
                 / AI 
                 / robots
                 / 
-        / 
+---------------------------------------------------------------------------------
+
+
+
+*How is Bib-Bop going to get money?*
+    I don't know yet xd
+---------------------------------------------------------------------------------
+
+
+
+* a *
