@@ -1,0 +1,3 @@
+*Reglas para desarrollar en Bip-Bop*
+
+    1.
